@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Karan Chavda</h1>
 <h3 align="center">A passionate full-stack web developer from Gujarat, India</h3>
 <hr style="height:30">
-<img align="right" alt="Coding" width="295" src="https://github.com/DhrumitPanchal/DhrumitPanchal/assets/118439793/6d2c91bc-ddf2-449f-b431-8173c5e53b44">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumitpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="dhrumitpanchal" /> </p>
+<!-- <img align="right" alt="Coding" width="295" src="https://github.com/DhrumitPanchal/DhrumitPanchal/assets/118439793/6d2c91bc-ddf2-449f-b431-8173c5e53b44">
+ -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranChavda511l&label=Profile%20views&color=0e75b6&style=flat" alt="dhrumitpanchal" /> </p>
 
 - 🌱 I’m currently learning **Backend Devlopment**
 
