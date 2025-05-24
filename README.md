@@ -17,7 +17,7 @@
   
 <h3 align="left">👋 Connect with me:</h3>
 <div align="left">
-  <a href="="www.linkedin.com/in/karan-chavda-6598052a7" target="_blank">
+  <a href="="www.linkedin.com/in/karan-chavda-6598052a7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/karan_chavda_511/" target="_blank">
